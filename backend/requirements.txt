@@ -1,0 +1,5 @@
+done through python
+requires:
+      python installation
+      flask installation
+      postman to deal with json
