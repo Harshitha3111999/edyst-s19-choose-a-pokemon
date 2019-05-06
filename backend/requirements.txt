@@ -1,5 +1,5 @@
 done through python
 requires:
-      python installation
+      python installation-3.7
       flask installation
-      postman to deal with json
+      postman to deal with json-win64-7.0.9
