@@ -1,5 +1,3 @@
-done through python
-requires:
-      python installation-3.7
-      flask installation-1.0.2
-      postman to deal with json-win64-7.0.9
+      python 3.7
+      flask 1.0.2
+      postman-win64-7.0.9
