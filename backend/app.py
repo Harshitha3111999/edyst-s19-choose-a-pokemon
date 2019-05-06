@@ -1,7 +1,7 @@
 from flask import Flask,render_template,jsonify,make_response
 app= Flask(__name__)
-@app.route("/")
-def index():
+@app.errorhandler(404)
+def index(e):
     return render_template("index.html")
 
 @app.route("/api/pokemon",methods=["GET"])
